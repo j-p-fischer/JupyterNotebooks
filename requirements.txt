@@ -3,5 +3,5 @@ numpy
 plotly
 cufflinks
 sympy
-ipython
+IPython
 matplotlib
