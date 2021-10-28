@@ -6,3 +6,4 @@ sympy
 IPython
 matplotlib
 mobilechelonian
+ipyturtle
